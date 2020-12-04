@@ -1,3 +1,2 @@
 # Intro
-My name is Anna Emmanuel
-I like to code✨
+My name is Anna Emmanuel and I like to code✨
