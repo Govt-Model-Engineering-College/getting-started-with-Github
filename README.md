@@ -9,7 +9,7 @@ Read the following steps and guidelines properly for proper understanding of the
 ### Step 2
 #### Create a New Folder within the forked repository, with the 'folder name' being your 'Your Name'
 
-## Contents of the folder
+
 Add a readme.md file to the folder, stating your Name and your skillset.
 
 ### Step 3
